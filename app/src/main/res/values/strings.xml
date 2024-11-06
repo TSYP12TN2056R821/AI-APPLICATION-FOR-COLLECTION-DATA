@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Garbage Data Classification Collection</string>
+    <string name="dir_loaded">Directory loaded</string>
+</resources>
